@@ -1,4 +1,4 @@
-## Your Name
+## Tiago Manuel Pereira Campos
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,12 +11,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Bills Restaurant** (September 2015 - September 2020)  
+General Manager
 
-- Any experience relevent to software development
+- Was offered the position as General Manager at this restaurant due to my performance on the previous one, my aim was to make the restaurant back to is high standards.
+Manage to make the Oxford restaurant to work in a more smooth and professional way, trained the managers on how to organize the essential paperwork, start to achieve better results within months of starting, had a high motivated team on my side.
 
-**Company Name** (start-date to end-date)  
+
+**Bills Restaurante Witney** (August 2015 to August 2019)  
 _Your job title_
 
 - Any experience relevent to software development
