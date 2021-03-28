@@ -53,4 +53,4 @@ Have some knoledge at CSS and HTML aquired from a course on CodeAcademy.
 
 ## Hobbies
 
-Love to repair and repair old consoles, guitars and electronic devices. Aslo got a passion for playing guitar
+Love to repair and rebuild old consoles, guitars and electronic devices. Aslo have a passion for playing guitar.
