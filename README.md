@@ -1,6 +1,6 @@
 ## Tiago Manuel Pereira Campos
 
-So far my career its been Hospitality and Management focused, wanted to make a change and since i love computer science i enroled on a bootcamp at makers. my goal its to ace my projects for future to become a great developer
+So far my career its been Hospitality and Management focused, wanted to make a change and since i love computer science i enroled on a bootcamp at Makers. My goal its to ace my projects for future to become a great developer
 
 ## Projects
 
@@ -28,7 +28,7 @@ Started as a waiter and work my way up until the summer of 2019 been offered the
 
 During my carrer i develop certain skills that will help me to succed as a delevoper, such as, communication, team work, time management, and leadership.
 
-#### This Skill
+#### Communication
 
 - Experience
 - Achievements
@@ -60,7 +60,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Have some knoledge at CSS and HTML aquired from 
 
 ## Hobbies
 
