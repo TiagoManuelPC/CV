@@ -1,6 +1,6 @@
 ## Tiago Manuel Pereira Campos
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+So far my career its been Hospitality and Management focused, wanted to make a change and since i love computer science i enroled on a bootcamp at makers. my goal its to ace my projects for future to become a great developer
 
 ## Projects
 
@@ -25,7 +25,7 @@ _Your job title_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+During my carrer i develop certain skills that will help me to succed as a delevoper, such as, communication, team work, time management, and leadership.
 
 #### This Skill
 
@@ -44,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2021 to June 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -53,11 +53,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Isag University 2012-2014
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Hospitality management course.
 
 #### Any other qualifications
 
@@ -65,4 +63,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Love to repair and repair old consoles, guitars and electronic devices. Aslo got a passion for playing guitar
