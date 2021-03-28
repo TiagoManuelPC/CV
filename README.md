@@ -19,9 +19,10 @@ Manage to make the Oxford restaurant to work in a more smooth and professional w
 
 
 **Bills Restaurante Witney** (August 2015 to August 2019)  
-_Your job title_
+Assistante General Manager
 
-- Any experience relevent to software development
+Started as a waiter and work my way up until the summer of 2019 been offered the opportunity to become Holding General Manger. From a 1 start audit for restaurant safety I manage to turn into 5 stars over a week. Raised the sales of the restaurant by 33% on my first month as Holding GM. Myself and the team organized a themed party that raised Thursday sales by 500% in a single day.
+
 
 ## Skills
 
